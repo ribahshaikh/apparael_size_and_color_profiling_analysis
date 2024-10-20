@@ -3,6 +3,10 @@
 ## Project Overview
 The goal of this project is to provide a comprehensive analysis of size and color distribution across different items, locations, and seasons to inform inventory management, sales strategies, and marketing decisions. Using SQL, this project aims to derive key insights into product performance, customer preferences, and seasonal trends, ultimately enabling data-driven decisions to optimize inventory levels and improve revenue.
 
+### Dataset Information
+Link: https://www.kaggle.com/code/iamsouravbanerjee/shopping-trends-unveiled-eda-for-beginners/input
+
+
 ## Project Goal
 This project targets the following insights:
 1. **Size and Color Distribution by Items:** Analyze the popularity of sizes and colors across all items.
